@@ -1,0 +1,127 @@
+.capsule {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .capsule-team {
+    background-color: rgb(238, 89, 89);
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .capsule-role {
+    background-color: rgb(99, 209, 99);
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .capsule-genre {
+    background-color: rgb(91, 199, 218);
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .capsule-task {
+    background-color: rgb(219, 217, 88);
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .capsule-ranking {
+    background-color: rgb(131, 114, 81);
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .capsule-platform {
+    background-color: rgb(245, 144, 86);
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+  }
+
+  .header-centered{
+    color: #fff;
+    text-align: center;
+  }
+
+  .footer-contact{
+    text-align: center;
+  }
