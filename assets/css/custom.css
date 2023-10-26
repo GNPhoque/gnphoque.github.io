@@ -122,6 +122,36 @@
     text-align: center;
   }
 
+  .about-intro{
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .about-intro-image{
+    width:130px; 
+    height: 130px;
+  }
+
   .footer-contact{
     text-align: center;
+  }
+
+  .separator{
+    color: #000000;
+  }
+  
+  hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;                
+    background-color:#818181;
+    height: 1px;
+  }
+
+
+  #line {
+    float: left;
+    width: 731px;
+    height: 40px;                
   }
